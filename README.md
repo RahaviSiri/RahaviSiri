@@ -32,7 +32,6 @@ I'm always excited to collaborate, contribute to open source, and learn from the
 📫 Let's Connect
 
 <p align="left">
-  <a href="https://github.com/RahaviSiri"><img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub" width="40"/></a>
   <a href="www.linkedin.com/in/rahavi-sirithar-a2a507292"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40"/></a>
 </p>
 
